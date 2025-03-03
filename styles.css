@@ -74,3 +74,18 @@ ul {
 .cta-button:hover {
     background-color: #218838;
 }
+
+footer {
+    width: 100%;
+    padding: 20px;
+    background-color: #343a40;
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+    border-top: 5px solid #007BFF;
+}
+
+footer p {
+    margin: 5px 0;
+    font-weight: 500;
+}
