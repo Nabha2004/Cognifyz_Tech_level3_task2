@@ -32,3 +32,12 @@ main {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
+section {
+    margin-bottom: 20px;
+}
+
+.introduction p, .qualifications p, .internship-details p, .additional-info p {
+    line-height: 1.6;
+    font-weight: 400;
+}
