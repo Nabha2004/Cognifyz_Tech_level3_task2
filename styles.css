@@ -103,3 +103,6 @@ footer p {
     transition: color 0.3s;
 }
 
+.social-icons a:hover {
+    color: #e0a800;
+}
