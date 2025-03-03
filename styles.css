@@ -41,3 +41,15 @@ section {
     line-height: 1.6;
     font-weight: 400;
 }
+
+h2 {
+    font-size: 1.5rem;
+    color: #007BFF;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
